@@ -1,6 +1,4 @@
-Hi, I’m Parven Mahar.
-I’m interested in knowing unknown.
-⚡ Fun fact: Everything is unknown, under gaze.
+Hi, I’m Parven Mahar and I love cricket.
 
 <!---
 parvenmahar/parvenmahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
