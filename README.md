@@ -1,4 +1,4 @@
-Hi, I’m Parven Mahar and I love cricket.
+Hi, I’m Parven Mahar, and I love cricket.
 
 <!---
 parvenmahar/parvenmahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
